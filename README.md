@@ -3,9 +3,13 @@ This repository contains the PyTorch implementation of Denoising Diffusion Proba
 
 ## Requirements
 ` Python 3.7.15
+
 ` PyTorch
+
 ` NumPy
+
 ` Matplotlib
+
 ` tqdm
 
 ## Files
