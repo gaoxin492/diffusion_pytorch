@@ -1,6 +1,8 @@
 # Diffusion PyTorch
 This repository contains the PyTorch implementation of Denoising Diffusion Probabilistic Models (DDPM). The code is based on the original implementation in Jupyter Notebook, which can be found in the references.
 
+![inference](https://user-images.githubusercontent.com/74125950/224066872-2cce56bb-2366-4b8e-9be0-5715bc0cf479.png)
+
 ## Requirements
 * Python 3.7.15
 * PyTorch
