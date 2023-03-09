@@ -2,15 +2,11 @@
 This repository contains the PyTorch implementation of Denoising Diffusion Probabilistic Models (DDPM). The code is based on the original implementation in Jupyter Notebook, which can be found in the references.
 
 ## Requirements
-· Python 3.7.15
-
-· PyTorch
-
-· NumPy
-
-· Matplotlib
-
-· tqdm
+` Python 3.7.15
+` PyTorch
+` NumPy
+` Matplotlib
+` tqdm
 
 ## Files
 **data/:** Contains the MNIST dataset.
