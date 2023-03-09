@@ -27,7 +27,7 @@ This repository contains the PyTorch implementation of Denoising Diffusion Proba
 
 **train.py:** Includes the forward process of the model and training for the noise prediction network. We only trained for 50 epochs and did not carefully tune the parameters.
 
-**inference.py: ** Calls the trained model from train.py, generates random noise with the same size as the image, and generates images from the approximate original data distribution through the backward process.
+**inference.py:** Calls the trained model from train.py, generates random noise with the same size as the image, and generates images from the approximate original data distribution through the backward process.
 
 ## Usage
 To train the model, simply run train.py. To generate images using the trained model, run inference.py. You can also modify the parameters and hyperparameters in params.py to experiment with different settings.
